@@ -72,5 +72,4 @@ Open [http://localhost:3000](http://localhost:3000) to use the app.
 
 ## License
 
-MIT © 2025 SUMRRRSALT# sumrrrsalt
-sumrrrsalt - Repository created from Orchids integration
+MIT © 2025 SUMRRRSALT
